@@ -1,0 +1,4 @@
+ul .customerS{position:relative;}
+.customerInner{display:none; position:absolute; right:0; top:30px; width:145px; background:#fff; z-index: 10; border:1px #eee solid}
+.customerInner p{height:25px; line-height:25px; text-indent: 1em; font-size:12px;}
+.customerInner .customerDiv a{display: inline-block; height:40px; line-height:40px; width:100px; padding:0;}
